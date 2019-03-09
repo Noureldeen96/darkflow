@@ -1,4 +1,4 @@
-aeroplane
-bicycle
-bird
-boat
+Pedstain
+Bike
+Vehicle
+Dog
