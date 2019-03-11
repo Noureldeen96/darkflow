@@ -1,4 +1,20 @@
 Pedstrain
 Bike
 Vehicle
-Dog
+dog
+aeroplane
+boat
+bus
+motorbike
+train
+bird
+cat
+cow
+horse
+sheep
+bottle
+chair
+ dining table
+ potted plant
+ sofa
+ tv/monitor
