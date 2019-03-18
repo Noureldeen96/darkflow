@@ -1,1 +1,4 @@
 Vehicle
+Pedstrain
+Dog
+Bike
